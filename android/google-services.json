@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1062633622392",
+    "project_id": "eksimsi-586ce",
+    "storage_bucket": "eksimsi-586ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062633622392:android:e1bb00c790db85fcc8968d",
+        "android_client_info": {
+          "package_name": "com.oguzhan.eksimsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062633622392-c85snscsd0eqpkr42absr8r1qetgo08m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oguzhan.eksimsi",
+            "certificate_hash": "75944ef5a95e9721a45b9e5646a315991aa8cf71"
+          }
+        },
+        {
+          "client_id": "1062633622392-6mihjt3ffdrqekav2gb6a5mqfgempc9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqYKxOyW9eZcdFx5q1NYRF-grGEjWm_AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062633622392-6mihjt3ffdrqekav2gb6a5mqfgempc9v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062633622392-abb60reus8aloolv91g4i76465hfgjvs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oguzhan.eksimsi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

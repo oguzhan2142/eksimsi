@@ -42,7 +42,7 @@ class AppButton extends StatelessWidget {
       child: ElevatedButton(
         style: ButtonStyle(
           backgroundColor: MaterialStateProperty.all(
-            shape == shape1 ? primary : grey,
+            shape == shape1 ? primary : backgroundGrey,
           ),
         ),
         onPressed: onPressed,

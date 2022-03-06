@@ -30,8 +30,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: swatchPrimary,
-        fontFamily: 'Roboto',
-        scaffoldBackgroundColor: grey,
+        fontFamily: 'Baloo Bhai',
+        scaffoldBackgroundColor: backgroundGrey,
       ),
       initialRoute: initialRoute,
       routes: {

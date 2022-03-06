@@ -2,7 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 const primary = Colors.black;
-const grey = Color.fromARGB(255, 229, 229, 229);
+const backgroundGrey = Color.fromARGB(255, 229, 229, 229);
+const foregroundGrey = Color.fromARGB(255, 245, 245, 247);
 const white = Colors.white;
 
 const MaterialColor swatchPrimary = MaterialColor(
